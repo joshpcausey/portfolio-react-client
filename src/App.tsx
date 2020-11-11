@@ -16,4 +16,9 @@ function App() {
   );
 }
 
+const Test = () => {
+  console.log('test');
+};
+Test();
+
 export default App;
